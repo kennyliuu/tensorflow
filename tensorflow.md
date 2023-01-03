@@ -14,7 +14,7 @@
 ---
 #### 1.2 機器學習介紹
 + 機器學習分類：
-    ![Alt text](https://img.onl/Ei8Fkz"width 50%")
+    ![Alt text](https://img.onl/Ei8Fkz)
 
 + 機器學習：監督式學習(分兩階段)
     ![superevised](https://img.onl/U9RFN)
